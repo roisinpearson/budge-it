@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Budge It</string>
+    <string name="enter_your_income">Enter your income</string>
+    <string name="weekly">Weekly</string>
+    <string name="fortnightly">Fortnightly</string>
+    <string name="monthly">Monthly</string>
+    <string name="enter_pay_button">Enter Pay Button</string>
+    <string name="enter_pay">ENTER PAY</string>
+    <string name="enter_pay_amount">ENTER PAY AMOUNT</string>
+</resources>
